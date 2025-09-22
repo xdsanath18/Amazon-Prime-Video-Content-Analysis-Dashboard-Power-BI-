@@ -1,5 +1,4 @@
 # Amazon Prime Video Content Analysis Dashboard
-
 ## 📊 Overview
 This project explores Amazon Prime Video’s content library using **Power BI**.  
 It provides insights into movies vs. TV shows distribution, genres, ratings, release trends, and global availability.
