@@ -25,7 +25,7 @@ It provides insights into movies vs. TV shows distribution, genres, ratings, rel
 ## 🎯 Objective
 To analyze and visualize Prime Video’s global content library and identify content trends, audience reach, and genre diversity.
 
-## The interactive dashboard helps answer key questions:
+## ✅ The interactive dashboard helps answer key questions:
 What’s the proportion of movies vs. TV shows on Prime Video?
 Which genres dominate the content library?
 How has content grown over time?
